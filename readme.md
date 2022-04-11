@@ -52,19 +52,5 @@ $ npm run dev
 
 the application will start running. All the assets are already included so you can run the application and it will work. 
 
-## Contributing
 
-If you find bugs with this project, pull requests are always welcome. You can [create an issue here](https://github.com/Aimanski12/foto-pics/issues/new).
-Your :sparkles: are also greatly appreciated.
-
-[View other projects](https://github.com/Aimanski12/web_dev_projects)
-
-## Author
-
-[Aimanski](http://bit.ly/aiman-profile-github).
-
-## License 
-
-Copyright © 2019, [Aimanski12](http://bit.ly/aiman-profile-github).
-Released under the [MIT License](LICENSE).
 
